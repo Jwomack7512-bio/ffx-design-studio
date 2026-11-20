@@ -1,7 +1,7 @@
 {
-    "release": "y",
-    "protocol": 20,
+    "release": "z",
+    "protocol": 21,
     "dataHash": "5ddff2b4c5ff",
     "download": "",
-    "notes": "Friends build, Nov 19: goals, shop, card art, wave 3, accounts."
+    "notes": "Friends build, Nov 19: a dropped connection no longer ends the match (rejoin)."
 }
