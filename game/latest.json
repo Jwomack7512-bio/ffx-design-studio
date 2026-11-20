@@ -1,7 +1,7 @@
 {
-    "release": "z",
+    "release": "aa",
     "protocol": 21,
     "dataHash": "5ddff2b4c5ff",
     "download": "",
-    "notes": "Friends build, Nov 19: a dropped connection no longer ends the match (rejoin)."
+    "notes": "Friends build, Nov 19: Home > FRIENDS, invites with a JOIN button, recent opponents."
 }
